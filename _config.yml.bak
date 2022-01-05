@@ -1,5 +1,5 @@
 name: mclarence.xyz
-description: ＼(￣▽￣)／
+description: ""
 meta_description: "mclarence.xyz"
 
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Clarence"
+author: "Your Name"
 
 # Disqus config
 disqus-shortname: ""
