@@ -69,17 +69,9 @@ post_class: post-template
                 </figure>
                 <section class="author">
                     <!-- Author Name -->
-                    <h4> {{ site.author }} </h4>
-                    <!-- Author Bio -->
-                    <p>
-                        Here goes the author description. You might want to place some links too in here
-                    </p>
+                    <p></p><h4> {{ site.author }} </h4></p>
                 </section>
             {% endif %}
-
-            <!-- Share links section -->
-            {% include share.html %}
-
             <!-- Disqus comments -->
             {% if page.disqus %}
                 {% include disqus.html %}
